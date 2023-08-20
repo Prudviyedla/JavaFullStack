@@ -31,8 +31,6 @@ public class Admin {
 	}
 
 
-
-
 	public Admin(long id, String username, String password, int number, String emailId, String dob) {
 		super();
 		this.id = id;
